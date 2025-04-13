@@ -1,4 +1,5 @@
-# Get_the_Beer This is a Game for the Vectrex Console. 
+# Get_the_Beer 
+This is a Game for the Vectrex Console. 
 You play a drunkard who desperatly needs his beer but he gets more drunk and unpredictable each level.
 
 Here are some Screenshots from the game.
